@@ -1,0 +1,30 @@
+Price,Mileage,Make,Model,Trim,Type,Cylinder,Liter,Doors,Cruise,Sound,Leather
+17314.10313,8221,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,1
+17542.03608,9135,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+16218.84786,13196,Buick,Century,Sedan 4D,Sedan,6,3.1,4,1,1,0
+17944.85692,19592,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,0,0
+19027.86231,21797,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,0,1
+18348.89857,23852,Buick,Lesabre,Custom Sedan 4D,Sedan,6,,4,1,1,0
+17750.88457,25040,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+17772.96968,25052,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+17394.0214,25464,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,0
+17645.74504,27830,Buick,Lesabre,Custom Sedan 4D,Sedan,6,3.8,4,1,1,1
+22435.20282,22287,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,1,1
+21878.12,23237,Buick,Park Avenue,Sedan 4D,,6,,4,1,1,0
+23077.56591,23798,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,0,1
+21698.01475,25489,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,1,1
+21831.82292,25564,Buick,Park Avenue,Sedan 4D,Sedan,6,3.8,4,1,1,1
+26831.19404,,,,,,,,,,,
+26060.33535,9795,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+26781.81465,12052,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+26302.07428,13050,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,1,0
+26190.27147,17335,Buick,Park Avenue,Special Ed Ultra 4D,Sedan,6,3.8,4,1,0,1
+40619.07227,30082,Cadillac,CST-V,Sedan 4D,Sedan,8,5.7,4,1,1,1
+33417.96501,6598,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+30957.08075,10625,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+31431.13037,11013,Cadillac,CTS,Sedan 4D,Sedan,6,,4,1,1,1
+30781.51563,14937,Cadillac,CTS,Sedan 4D,Sedan,6,2.8,4,1,1,1
+35866.58271,24415,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,1,1
+35338.65369,25163,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
+36154.30355,25339,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,1,1
+34685.66298,25421,Cadillac,Deville,DHS Sedan 4D,Sedan,8,4.6,4,1,0,1
